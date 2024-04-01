@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishgobugari
 - 👀 I’m interested in Big Data tools and technologies
-- 🌱 I’m currently learning PySpark and Kafka
+- 🌱 I’m currently learning Airflow and Kafka
 - 💞️ I’m looking to collaborate on big data projects
 - 📫 How to reach me: Linkedin Harish Gobugari
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harishgobugari
-- 👀 I’m interested in Big Data tools and technologies
-- 🌱 I’m currently learning Airflow and Kafka
-- 💞️ I’m looking to collaborate on big data projects
+- 👀 Interested in Big Data tools and technologies
+- 🌱 Currently learning Airflow and Kafka
+- 💞️ Looking to collaborate on big data projects
 - 📫 Linkedin: [Harish Gobugari
 ](https://www.linkedin.com/in/harish-gobugari/)
 <!---
